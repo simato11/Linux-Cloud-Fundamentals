@@ -26,4 +26,4 @@ https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
 
 
 
-I did lauch my Cloud Shell
+I have Created a Linux virtual machine with the Azure CLI
